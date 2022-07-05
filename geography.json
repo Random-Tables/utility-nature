@@ -1,0 +1,49 @@
+{
+  "terrain": {
+    "table": [
+      "flat",
+      "hilly",
+      "mountainous",
+      "cavernous",
+      "jagged",
+      "valley",
+      "gulley",
+      "shoreline",
+      "rolling",
+      "fractured"
+    ]
+  },
+  "ground": {
+    "table": [
+      "sand",
+      "soil",
+      "stone",
+      "scrub",
+      "rich strata",
+      "volcanic",
+      "chalk",
+      "swamp",
+      "gravel",
+      "shale",
+      "slate",
+      "strewn with lakes",
+      "crisscrossed by rivers"
+    ]
+  },
+  "weather": {
+    "table": [
+      "arid",
+      "wet",
+      "humid",
+      "dry",
+      "sunny",
+      "cold",
+      "freezing",
+      "temperate",
+      "stormy",
+      "windswept",
+      "torrential",
+      "hot"
+    ]
+  }
+}
