@@ -1,0 +1,53 @@
+{
+  "plant-descriptor": {
+    "table": [
+      "verdant",
+      "spiky",
+      "stubby",
+      "shrivelled",
+      "burnt",
+      "flowering",
+      "thorny",
+      "tangling",
+      "overgrown"
+    ]
+  },
+  "plant-type": {
+    "table": [
+      "shrubs",
+      "weeds",
+      "ferns",
+      "bush",
+      "hedge",
+      "trailing vines",
+      "cactuses",
+      "flowers",
+      "mushrooms",
+      "reeds",
+      "moss",
+      "grass",
+      "herbs",
+      "succulents"
+    ]
+  },
+  "tree-descriptor": {
+    "table": [
+      "coniferous",
+      "deciduous",
+      "evergreen",
+      "broadleaf",
+      "blossom",
+      "giant",
+      "ancient",
+      "hollow",
+      "dying",
+      "towering"
+    ]
+  },
+  "plant": {
+    "table": [
+      "{{utility-nature/flora/plant-descriptor}} {{utility-nature/flora/plant-type}}",
+      "{{utility-nature/flora/plant-descriptor}} {{utility-nature/flora/plant-descriptor}} trees"
+    ]
+  }
+}

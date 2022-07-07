@@ -6,6 +6,7 @@
   "version": 1,
   "tags": ["nature"],
   "tables": {
-    "geography": ["terrain", "ground"]
+    "geography": ["terrain", "ground"],
+    "flora": ["plant-descriptor", "plant-type", "tree-descriptor", "plant"]
   }
 }
