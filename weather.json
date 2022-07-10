@@ -41,5 +41,15 @@
       "earthquake",
       "coldnap"
     ]
+  },
+  "weather-type": {
+    "table": [
+      "{{utility-nature/weather/magnitude:severe}} {{utility-nature/weather/events:storm}}"
+    ]
+  },
+  "weather": {
+    "table": [
+      "{{utility-nature/weather/rate:rare}} {{utility-nature/weather/magnitude:severe}} {{utility-nature/weather/events:storm}}"
+    ]
   }
 }

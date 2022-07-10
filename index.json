@@ -3,10 +3,10 @@
   "collectionName": "Nature",
   "category": "Utility",
   "isUtility": true,
-  "version": 1,
+  "version": 2,
   "tags": ["nature"],
   "tables": {
-    "geography": ["terrain", "ground"],
+    "geography": ["terrain", "ground", "climate"],
     "flora": ["plant-descriptor", "plant-type", "tree-descriptor", "plant"],
     "fauna": [
       "quantity",
@@ -18,6 +18,6 @@
       "mid-descriptor",
       "mid"
     ],
-    "weather": ["rate", "magnitude", "events"]
+    "weather": ["rate", "magnitude", "events", "weather-type", "weather"]
   }
 }
