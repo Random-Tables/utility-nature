@@ -29,7 +29,7 @@
       "snowstorm",
       "hailstorm",
       "rain",
-      "acid weather",
+      "acid storm",
       "thunderstorm",
       "heatwave",
       "hurricane",
@@ -49,7 +49,7 @@
   },
   "weather": {
     "table": [
-      "{{utility-nature/weather/rate:rare}} {{utility-nature/weather/magnitude:severe}} {{utility-nature/weather/events:storm}}"
+      "{{utility-nature/weather/rate:rare}} {{utility-nature/weather/magnitude:severe}} {{utility-nature/weather/events:storm}}s"
     ]
   }
 }
