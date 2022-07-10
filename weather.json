@@ -1,0 +1,45 @@
+{
+  "rate": {
+    "table": [
+      "common",
+      "rare",
+      "frequent",
+      "occasional",
+      "near daily",
+      "on occasion",
+      "uncommon"
+    ]
+  },
+  "magnitude": {
+    "table": [
+      "severe",
+      "catastrophic",
+      "powerful",
+      "overbearing",
+      "dangerous",
+      "mild",
+      "strong",
+      "abnormal"
+    ]
+  },
+  "events": {
+    "table": [
+      "storm",
+      "fog",
+      "snowstorm",
+      "hailstorm",
+      "rain",
+      "acid weather",
+      "thunderstorm",
+      "heatwave",
+      "hurricane",
+      "tornado",
+      "blizzard",
+      "drought",
+      "flodding",
+      "icestorm",
+      "earthquake",
+      "coldnap"
+    ]
+  }
+}

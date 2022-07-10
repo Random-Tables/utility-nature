@@ -17,6 +17,7 @@
       "reptiles",
       "mid-descriptor",
       "mid"
-    ]
+    ],
+    "weather": ["rate", "magnitude", "events"]
   }
 }
