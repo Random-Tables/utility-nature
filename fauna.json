@@ -1,0 +1,107 @@
+{
+  "quantity": {
+    "table": [
+      "some",
+      "many",
+      "few",
+      "huge numbers",
+      "some",
+      "scores of",
+      "hordes of"
+    ]
+  },
+  "insects-descriptor": {
+    "table": [
+      "buzzing",
+      "biting",
+      "skittering",
+      "hiding",
+      "poisonous",
+      "venomous",
+      "crawling",
+      "noisy"
+    ]
+  },
+  "insects": {
+    "table": [
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} bugs",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} beetles",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} spiders",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} wasps",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} flies",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} gnats",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} ants",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} bees",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/insects-descriptor:biting}} grasshoppers"
+    ]
+  },
+  "mammals": {
+    "table": [
+      "rats",
+      "squirrel",
+      "koalas",
+      "racoons",
+      "otters",
+      "monkeys",
+      "goats",
+      "horses",
+      "pigs",
+      "deer",
+      "foxes",
+      "oxen",
+      "rodents",
+      "lemurs"
+    ]
+  },
+  "birds": {
+    "table": [
+      "swallows",
+      "tits",
+      "finches",
+      "crows",
+      "eagles",
+      "carrion",
+      "wrens",
+      "woodpeckers",
+      "blackbirds",
+      "parrots",
+      "owls",
+      "dove",
+      "goose",
+      "swan",
+      "tern",
+      "kingfisher",
+      "pidgeon",
+      "starling"
+    ]
+  },
+  "reptiles": {
+    "table": [
+      "snakes",
+      "lizards",
+      "turtles",
+      "iguanas",
+      "tortoises",
+      "lizard",
+      "skinks"
+    ]
+  },
+  "mid-descriptor": {
+    "table": [
+      "fierce",
+      "social",
+      "vicious",
+      "friendly",
+      "nocturnal",
+      "secretive",
+      "aggresive"
+    ]
+  },
+  "mid": {
+    "table": [
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/mid-descriptor:biting}} {{utility-nature/fauna/mammals:rats}}",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/mid-descriptor:biting}} {{utility-nature/fauna/birds:swallows}}",
+      "{{utility-nature/fauna/quantity:many}} {{utility-nature/fauna/mid-descriptor:biting}} {{utility-nature/fauna/reptiles:snakes}}"
+    ]
+  }
+}

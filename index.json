@@ -7,6 +7,16 @@
   "tags": ["nature"],
   "tables": {
     "geography": ["terrain", "ground"],
-    "flora": ["plant-descriptor", "plant-type", "tree-descriptor", "plant"]
+    "flora": ["plant-descriptor", "plant-type", "tree-descriptor", "plant"],
+    "fauna": [
+      "quantity",
+      "insects-descriptor",
+      "insects",
+      "mammals",
+      "birds",
+      "reptiles",
+      "mid-descriptor",
+      "mid"
+    ]
   }
 }

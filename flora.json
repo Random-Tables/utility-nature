@@ -46,8 +46,8 @@
   },
   "plant": {
     "table": [
-      "{{utility-nature/flora/plant-descriptor}} {{utility-nature/flora/plant-type}}",
-      "{{utility-nature/flora/plant-descriptor}} {{utility-nature/flora/plant-descriptor}} trees"
+      "{{utility-nature/flora/plant-descriptor:verdant}} {{utility-nature/flora/plant-type:weeds}}",
+      "{{utility-nature/flora/plant-descriptor:spiky}} {{utility-nature/flora/plant-descriptor:deciduous}} trees"
     ]
   }
 }
