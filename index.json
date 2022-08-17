@@ -6,8 +6,6 @@
   "version": 2,
   "tags": ["nature"],
   "tables": {
-    "geography": ["terrain", "ground", "climate"],
-    "flora": ["plant-descriptor", "plant-type", "tree-descriptor", "plant"],
     "fauna": [
       "quantity",
       "insects-descriptor",
@@ -18,6 +16,8 @@
       "mid-descriptor",
       "mid"
     ],
+    "flora": ["plant-descriptor", "plant-type", "tree-descriptor", "plant"],
+    "geography": ["terrain", "ground", "climate"],
     "weather": ["rate", "magnitude", "events", "weather-type", "weather"]
   }
 }
